@@ -1,0 +1,9 @@
+{
+"levelUnlockHint": 1,
+"levelUnlockUndo": 2,
+"levelUnlockShuffle": 3,
+"priceHint": 80,
+"priceUndo": 81,
+"priceShuffle": 82,
+"goldClaimWatchVideo": 40
+}
