@@ -1,11 +1,11 @@
 {
-"levelUnlockHint": 2,
-"levelUnlockUndo": 3,
-"levelUnlockShuffle": 4,
+"levelUnlockHint": 20,
+"levelUnlockUndo": 5,
+"levelUnlockShuffle": 30,
 "priceHint": 70,
-"priceUndo": 71,
-"priceShuffle": 72,
-"goldClaimWatchVideo": 30,
-"goldDefaultForUser" : 696,
-"goldInBLockGold" : 120
+"priceUndo": 50,
+"priceShuffle": 90,
+"goldClaimWatchVideo": 40,
+"goldDefaultForUser" : 60,
+"goldInBLockGold" : 2
 }
