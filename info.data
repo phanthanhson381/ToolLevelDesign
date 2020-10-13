@@ -1,7 +1,7 @@
 {
-"levelUnlockHint": 20,
-"levelUnlockUndo": 5,
-"levelUnlockShuffle": 30,
+"levelUnlockHint": 30,
+"levelUnlockUndo": 10,
+"levelUnlockShuffle": 50,
 "priceHint": 70,
 "priceUndo": 50,
 "priceShuffle": 90,
